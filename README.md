@@ -60,6 +60,7 @@ categories & products, analyses customer sentiment, and uncovers key revenue pat
 
  # 📊 Dashboards
 ## 1️⃣ Revenue Dashboard
+![Revenue](Dashboard/Revenue.png)
 - Total Revenue, Orders, Delivered/Pending/Returned
 - Top Products & Top States
 - Monthly/Weekly Trends
