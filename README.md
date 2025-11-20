@@ -39,12 +39,13 @@ This project aims to:
 ---
 
 ## 📁 **Project Structure**
-| `📂 Amazon-Sales-Analysis` | 
-│ `📄 Amazon_Sales_Analysis.pdf (Python EDA Report)` |
-│ `📄 Amazon_Sales_Presentation.pptx (Final PPT)` |
-│ `📄 Business Problem.docx` |
-│  `📄 README.md` |
-│ `📁 Dashboard Screenshots` |
+|--------------|
+| `📂 Amazon-Sales-Analysis` |
+| `📄 Amazon_Sales_Analysis.pdf (Python EDA Report)` |
+| `📄 Amazon_Sales_Presentation.pptx (Final PPT)` |
+| `📄 Business Problem.docx` |
+|  `📄 README.md` |
+| `📁 Dashboard Screenshots` |
 
 
 ---
