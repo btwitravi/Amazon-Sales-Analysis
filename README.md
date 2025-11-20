@@ -39,12 +39,12 @@ This project aims to:
 ---
 
 ## 📁 **Project Structure**
-| 📂 Amazon-Sales-Analysis | 
-│ 📄 Amazon_Sales_Analysis.pdf (Python EDA Report) |
-│ 📄 Amazon_Sales_Presentation.pptx (Final PPT) |
-│ 📄 Business Problem.docx |
-│  📄 README.md
-│ 📁 Dashboard Screenshots |
+| `📂 Amazon-Sales-Analysis` | 
+│ `📄 Amazon_Sales_Analysis.pdf (Python EDA Report)` |
+│ `📄 Amazon_Sales_Presentation.pptx (Final PPT)` |
+│ `📄 Business Problem.docx` |
+│  `📄 README.md` |
+│ `📁 Dashboard Screenshots` |
 
 
 ---
@@ -90,9 +90,11 @@ Top performing states:
 
 ## 📊 Power BI Dashboard
 The project includes **two dashboards**:
-1. **Sales Performance Dashboard**  
-2. **Customer Behaviour & Feedback Dashboard**  
-
+1. **Sales Performance Dashboard**
+   ![Revenue](Dashboard/Revenue.png)
+3. **Customer Behaviour & Feedback Dashboard**  
+    ![Review](Dashboard/Review.png)
+ 
 They provide visual insights on:
 - Revenue  
 - Orders  
@@ -111,8 +113,10 @@ Payment methods and states contribute evenly, but high pending/returned orders s
 
 ## 👨‍💻 **Author**
 **Ravi Kumar Gupta**  
-GitHub: https://github.com/btwitravi  
-LinkedIn: https://linkedin.com/in/ravi-kumar-gupta-  
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/btwitravi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-gupta-161745247/)
+ 
 
 ---
 
