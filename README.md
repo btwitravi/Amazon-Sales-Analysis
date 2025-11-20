@@ -66,6 +66,7 @@ categories & products, analyses customer sentiment, and uncovers key revenue pat
 - Monthly/Weekly Trends
   
 ## 2️⃣ Customer Review Dashboard
+![Review](Dashboard/Review.png)
 - Average Ratings
 - Review Categories
 - Review Sentiment Patterns
